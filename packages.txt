@@ -1,0 +1,13 @@
+express -  this make our application a server
+body-parser - this allows us to get data from and HTML page
+ejs - this allow get data from server and display in HTML
+sequelize - this allows us to connect to a database and automatically create tables on the database
+mysql2 - this is a mysql library that works with sequelize
+nodemon - helps to automatically reload server
+bcrypt - use this for harshing passwords
+
+an ** if ** statement in written as:
+
+<% if (condition) { %>
+
+<%} %>
